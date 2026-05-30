@@ -10,4 +10,5 @@
 
 
 **欢迎来看:**
-<img src="https://visitor-badge.laobi.icu/badge?page_id=AltumSisy.AltumSisy&left_color=0D1117&right_color=58A6FF&left_text=Visitors" alt="Visitor Badge"/>
+https://camo.githubusercontent.com/1055fe8a830f902e1c2f14944e6dfa276218ea827e5643c6d2f18f0500ea9bee/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f4d616c655765622f706963747572652f696d616765732f74656368626c6f672f68692e676966
+ [`有想法的宝藏博客`](https://doc.altumsisy.qzz.io/)
